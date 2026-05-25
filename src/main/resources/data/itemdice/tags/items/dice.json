@@ -1,0 +1,4 @@
+{
+  "replace": false,
+  "values": ["itemdice:d4", "itemdice:d6", "itemdice:d20", "itemdice:d100"]
+}

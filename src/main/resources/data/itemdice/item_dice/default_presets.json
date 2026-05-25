@@ -1,0 +1,6 @@
+{
+  "presets": [
+    {"id": "starter", "dice": "itemdice:d6", "slots": 27, "cooldown": 20},
+    {"id": "vault", "dice": "itemdice:d20", "slots": 54, "cooldown": 100}
+  ]
+}

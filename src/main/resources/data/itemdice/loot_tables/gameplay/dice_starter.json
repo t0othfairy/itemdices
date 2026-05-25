@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {"type": "minecraft:item", "name": "itemdice:d4", "weight": 5},
+        {"type": "minecraft:item", "name": "itemdice:d6", "weight": 3},
+        {"type": "minecraft:item", "name": "itemdice:d20", "weight": 1}
+      ]
+    }
+  ]
+}

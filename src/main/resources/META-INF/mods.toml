@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="itemdice"
+version="${file.jarVersion}"
+displayName="Item Dice"
+authors="Codex"
+description='''
+Magical portable dice inventories and utilities.
+'''
+
+[[dependencies.itemdice]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.itemdice]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.itemdice]]
+modId="curios"
+mandatory=false
+versionRange="[5.9,)"
+ordering="AFTER"
+side="BOTH"

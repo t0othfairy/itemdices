@@ -1,0 +1,11 @@
+{
+  "itemGroup.itemdice.main": "Dados de Objetos",
+  "item.itemdice.d4": "Dado d4",
+  "item.itemdice.d6": "Dado d6",
+  "item.itemdice.d20": "Dado d20",
+  "item.itemdice.d100": "Dado d100",
+  "menu.itemdice.dice": "Inventario del Dado",
+  "tooltip.itemdice.hold_shift": "Mantén SHIFT para ver las mecánicas",
+  "tooltip.itemdice.dice.shift": "Inventario mágico portátil con sincronización del servidor.",
+  "tooltip.itemdice.dice.slot_count": "Ranuras: %s"
+}

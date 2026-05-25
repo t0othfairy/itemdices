@@ -1,0 +1,12 @@
+{
+  "itemGroup.itemdice.main": "Item Dice",
+  "item.itemdice.d4": "d4 Dice",
+  "item.itemdice.d6": "d6 Dice",
+  "item.itemdice.d20": "d20 Dice",
+  "item.itemdice.d100": "d100 Dice",
+  "menu.itemdice.dice": "Dice Inventory",
+  "tooltip.itemdice.hold_shift": "Hold SHIFT to inspect dice mechanics",
+  "tooltip.itemdice.dice.shift": "Portable magical inventory with server-synced storage.",
+  "tooltip.itemdice.dice.slot_count": "Slots: %s",
+  "tooltip.itemdice.d4.snapshot": "Shift+Right Click: configure loadout snapshot. Right Click: restore saved loadout."
+}

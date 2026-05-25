@@ -1,0 +1,11 @@
+{
+  "itemGroup.itemdice.main": "Кубики Предметов",
+  "item.itemdice.d4": "Кубик d4",
+  "item.itemdice.d6": "Кубик d6",
+  "item.itemdice.d20": "Кубик d20",
+  "item.itemdice.d100": "Кубик d100",
+  "menu.itemdice.dice": "Инвентарь Кубика",
+  "tooltip.itemdice.hold_shift": "Удерживайте SHIFT для описания механик",
+  "tooltip.itemdice.dice.shift": "Портативный магический инвентарь с синхронизацией сервера.",
+  "tooltip.itemdice.dice.slot_count": "Слоты: %s"
+}
